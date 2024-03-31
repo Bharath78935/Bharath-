@@ -1,0 +1,36 @@
+.mydiv
+{
+   background-color: blue;
+   height: 100px;
+   width: 100px;
+   border: solid;
+   margin: 5px;
+
+}
+.Img
+{
+   height: 200px;
+   width: 250px;
+}
+.Img:hover
+{
+   cursor: pointer;
+   opacity: 0.8;
+}
+#sb
+{
+   display: flex;
+   justify-content: center;
+   font-size: xx-large;
+   font-weight: 300;
+   gap: 70px;
+   margin-top: 10px;
+}
+#win
+{
+   background-color: rgb(73, 73, 242);
+   width: 300px;
+   border-radius: 10px;
+   font-size: 30px;
+}
+
